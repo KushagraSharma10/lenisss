@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid>div {
+  grid-row: var(--r);
+  grid-column: var(--c);
+}
+
+
