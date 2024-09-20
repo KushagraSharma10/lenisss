@@ -125,7 +125,7 @@ const App = () => {
         <h2 className="text-4xl">並外れたファッション</h2>
       </div>
       <div className="w-full h-screen bg-[#D1D1D1] flex items-center justify-center mx-auto py-96 relative z-[999] text-center ">
-        <p className="text-4xl text-black font-['Helvetica_Now_Display'] leading-[3.2rem] w-3/4 font-medium text-left">
+        <p className="text-4xl text-black font-['Helvetica_Now_Display'] leading-[3.2rem] w-3/4 font-semibold text-left">
           Thomas Vance is a renowned fashion and clothing brand known for its exceptional style and innovative designs. Established with a vision to bring extraordinary fashion to the forefront, Thomas Vance offers a wide range of high-quality apparel that blends modern trends with timeless elegance ®
         </p>
       </div>
